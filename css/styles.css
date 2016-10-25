@@ -1,0 +1,15 @@
+img{
+  display: none;
+}
+
+p{
+  font-weight: bold;
+}
+
+#thanks{
+  display: none;
+}
+
+#answer{
+  font-size: 18px;
+}
