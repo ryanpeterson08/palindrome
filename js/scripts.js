@@ -1,7 +1,7 @@
 
 var palindrome = function(text){
 
-	var textArray = text.split("");
+	var textArray = text.toLowerCase().split("");
   var noSpaces = textArray.filter(function (value){
   	return value != " ";
   });
